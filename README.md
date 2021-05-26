@@ -1,16 +1,18 @@
-### Hi there 👋
+### soulbond the cool man
+- started java work with anarchy in jan. 2020
+- dev of bongware.ml, reanimators
+- somewhat distuinguished cpvper
+- take a look at my contacts
 
-<!--
-**Soulbond/Soulbond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+  <summary><b>contacts</b></summary>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+<li>Discord: Soulbond#0001</li>
+<li>YouTube: youtube.com/Soulbond</li>
+<li>Reddit: Soulbond1</li>
+<li>Steam: paradox19210 (display name Soulbond)</li>
+<li>Twitch: SoulbondYT</li>
+<li>Twitter: SoulbondYT</li>
+<li>XBOX: Soulbond8223</li>
+<li>battleNET: Paradox18#11453</li>
